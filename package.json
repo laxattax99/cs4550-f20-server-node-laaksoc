@@ -1,0 +1,14 @@
+{
+  "name": "cs4550-f20-server-node-laaksoc",
+  "version": "1.0.0",
+  "description": "node js middle tier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Laakso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

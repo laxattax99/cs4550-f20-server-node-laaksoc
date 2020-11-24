@@ -1,0 +1,8 @@
+[
+    {"_id": "123", "question": "The answer is true", "quizId": "123", "choices": ["TRUE", "FALSE"], "correct": "TRUE", "answer": "", "type": "TRUE_FALSE"},
+    {"_id": "234", "question": "The answer is false", "quizId": "123", "choices": ["TRUE", "FALSE"], "correct": "FALSE", "answer": "", "type": "TRUE_FALSE"},
+    {"_id": "345", "question": "What's your favorite car?", "quizId": "123", "choices": ["SUV", "Sedan", "convertible"], "correct": "Sedan", "answer": "" , "type": "MULTIPLE_CHOICE"},
+    {"_id": "456", "question": "What's your favorite flavor?", "quizId": "234"},
+    {"_id": "567", "question": "What's your favorite brand?", "quizId": "234"},
+    {"_id": "678", "question": "What's your favorite season?", "quizId": "123", "choices": ["fall", "winter", "autumn", "summer"], "correct": "summer", "answer": "" , "type": "MULTIPLE_CHOICE"}
+  ]
