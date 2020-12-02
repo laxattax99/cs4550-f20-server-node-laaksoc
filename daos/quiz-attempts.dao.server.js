@@ -7,7 +7,7 @@ const scoreQuiz = (questions) => {
       ? numberOfCorrectQuestions++
       : numberOfCorrectQuestions
   );
-  return (100 * numberOfCorrectQuestions) / questions.length;
+  return (100 * numberOfCorrectQuestions / questions.length).toFixed(2);
 };
 
 const findAttemptsForQuiz = (qzid) =>
